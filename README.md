@@ -1,0 +1,1 @@
+# sonarqube-mercadona-typescript-plugin
